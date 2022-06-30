@@ -17,7 +17,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://www.linkedin.com/in/edison-chimezie-282919238/"><img align="left" src="https://raw.githubusercontent.com/EddieChimezie/Eddiechimezie/main/images/linkedin.svg" alt="EddieChimezie | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/e.d.d.i.e.s/"><img align="left" src="https://raw.githubusercontent.com/EddieChimezie/EddieChimezie/main/images/instagram.svg" alt="EddieChimezie | Instagram" width="21px"/></a>
-<a href="https://twitter.com/Eddiethefvrst"><img align="left" src="https://raw.githubusercontent.com/EddieChimezie/EddieChimezie/main/images/twitter.png" alt="EddieChimezie | Twitter" width="21px"/></a>
+<a href="https://twitter.com/edthenerd1"><img align="left" src="https://raw.githubusercontent.com/EddieChimezie/EddieChimezie/main/images/twitter.png" alt="EddieChimezie | Twitter" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
