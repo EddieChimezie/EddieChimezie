@@ -8,10 +8,10 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Eddie</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Front-End Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm an aspiring Flutter Developer 💻, a passionate tech enthusiast, developer, lifelong learner and I make VIDEOS too.
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative things. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
@@ -23,22 +23,22 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## About Me! 🤓
 - 👀 I’m interested in Coding and building cool stuffs
-- 🌱 I’m currently learning to be a Software Engineer ⏳
+- 🌱 I’m currently learning to be a Full Fledged Flutter Developer ⏳
 - 💞️ I’m open to collaborate on any project and to learn from you
-- 💡 Fun fact: I am a speed cuber, I love puzzles, I play chess, Tennis and RTS games. 🧩♟🎮
+- 💡 Fun fact: When I'm not coding, you can find me vlogging about the hustle and bustle of life or creating engaging Shorts with powerful snippets and funny content.
 - 📫 How to reach me via email or twitter 
 
 ## 🔭 I'm currently working on
 
 - Becoming a Software Engineer ⏳
-- Transitioning to Full-Stack...
-- My next blog
-- My js skill
+- Learning Portuguese
+- Growing my portfolio to become a professional.
+- My flutter skill
 
 ## 🌱 I'm currently learning
 
-- Python 💻
-- C 🤓
+- Flutter/Dart 💻
+- Software Developing 🤓
 - Node.js 
 - Solidity  
 
